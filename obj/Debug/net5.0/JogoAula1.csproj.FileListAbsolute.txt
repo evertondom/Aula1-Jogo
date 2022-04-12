@@ -1,0 +1,16 @@
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.exe
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.deps.json
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.runtimeconfig.json
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.runtimeconfig.dev.json
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.dll
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\bin\Debug\net5.0\JogoAula1.pdb
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.csproj.AssemblyReference.cache
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.AssemblyInfoInputs.cache
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.AssemblyInfo.cs
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.csproj.CoreCompileInputs.cache
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.dll
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\refint\JogoAula1.dll
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.pdb
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\JogoAula1.genruntimeconfig.cache
+D:\Cast Group\aula11\CsharpBasico\JogoAula1\obj\Debug\net5.0\ref\JogoAula1.dll
